@@ -21,5 +21,24 @@ namespace dotnetapp.Managers
         // ListPlayers
         // FindPlayer
         // DisplayAllPlayers
+        public void DisplayAllPlayers(){
+
+        }
+        public void AddPlayer(){
+
+        }
+        public void EditPlayer(){
+
+        }
+        public void DeletePlayer(){
+
+        }
+        public void ListPlayers(){
+
+        }
+        public void FindPlayer(){
+
+        }
+        public void FindPlayer(){}
     }
 }
