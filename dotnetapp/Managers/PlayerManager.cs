@@ -39,6 +39,6 @@ namespace dotnetapp.Managers
         public void FindPlayer(){
 
         }
-        public void FindPlayer(){}
+
     }
 }

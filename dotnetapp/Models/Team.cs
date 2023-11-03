@@ -7,6 +7,8 @@ namespace dotnetapp.Models
 {
     public class Team
     {
+        public string TeamName{get;set;}
+        public int Score{get;set;}
         // Write your Team class here...        
     }
 }
