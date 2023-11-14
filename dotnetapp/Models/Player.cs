@@ -13,4 +13,4 @@ namespace dotnetapp.Models
         public string Category{get;set;}
         public decimal BiddingPrice{get;set;}      
     }
-}IAdditionOperators=
+}
